@@ -38,4 +38,4 @@ let albumMusical = {
     ],
 };
 
-console.log(albumMusical.canciones[1].autor[2]);
+console.log(albumMusical.canciones[1].autor[1]);
